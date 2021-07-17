@@ -34,14 +34,29 @@ https://marketplace.visualstudio.com/items?itemName=rohit-chouhan.ci-crud-snippe
 |$ci-like| Retreving data with Like claus |
 |$ci-count| Row count from Table |
 
+## Functions (Select)
+| Syntax      | Description |
+| ----------- | ----------- |
+|$ci-selectMax| Retreving Max Value |
+|$ci-selectMin| Retreving Min Value |
+|$ci-selectAvg| Retreving Avg Value |
+|$ci-selectSum| Retreving Sum Value |
+|$ci-selectCount| Retreving Count Value |
+
 ## Input/Output
 ![title](https://i.ibb.co/Lvh0Lr7/crud.png)
 
-### Hi there 👋
-<!--
-**rohit-chouhan/rohit-chouhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-I' working in world's four firm Organization , Deloitte. Love to solve problem and develop new things.
-- 🌱 Skills: UI Design, Web Development, Software Developer
-- 💬 Ask me anything: [Facebook](https://www.facebook.com/people/Rohit-Rajput-Chouhan/100060079099101/)
-- 📫 How to reach me: me@rohitchouhan.com
+```
+1.0.0
+- Initial release
+
+1.0.1 (16/07/2021)
+- Bug fixed
+
+1.0.2 (17/07/2021)
+- Select Max Added
+- Select Min Added
+- Select Avg Added
+- Select Sum Added
+- Select Count Added
+```
